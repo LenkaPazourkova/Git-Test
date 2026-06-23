@@ -1,2 +1,3 @@
 Pokus 1
 Pokus 2
+ and IsNull(lok.IndStorno,0) = 0
